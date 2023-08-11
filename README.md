@@ -22,13 +22,13 @@ A simple Flask application demonstrating user authentication using Flask-Login a
 1. Clone the repository:
 
 ```bash
-git clone [REPO_LINK]
+git clone https://github.com/j-breedlove/authenticate_with_flask.git 
 ```
 
 2. Change directory to the cloned repository:
 
 ```bash
-cd [DIRECTORY_NAME]
+cd authenticate_with_flask
 ```
 
 3. Install dependencies using pipenv:

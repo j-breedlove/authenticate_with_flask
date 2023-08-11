@@ -19,7 +19,7 @@ def configure_app():
 configure_app()
 
 db = SQLAlchemy(app)
-db.create_all()
+# db.create_all()
 login_manager = LoginManager(app)
 
 
